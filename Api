@@ -31,13 +31,10 @@ http://localhost:5000/Category/upload
 ----------------Bill----------------
 http://localhost:5000/bill/get_list
 http://localhost:5000/bill/delete/id
-http://localhost:5000/bill/update/id
-http://localhost:5000/bill/add
 http://localhost:5000/bill/search/id
 
 ----------------Cart----------------
 http://localhost:5000/cart/get_list
 http://localhost:5000/cart/delete/id
-http://localhost:5000/cart/update/id
-http://localhost:5000/cart/add
+
 
