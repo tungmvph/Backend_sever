@@ -1,0 +1,43 @@
+# Backend_sever
+----------------Api------------------
+----------------Book----------------
+http://localhost:5000/book/get_list
+http://localhost:5000/book/delete/id
+http://localhost:5000/book/update/id
+http://localhost:5000/book/add
+http://localhost:5000/book/search/id
+// duong dan up load ảnh book
+http://localhost:5000/Book/upload
+
+----------------Users----------------
+http://localhost:5000/users/get_list
+http://localhost:5000/users/delete/id
+http://localhost:5000/users/update/id
+http://localhost:5000/users/add
+http://localhost:5000/book/search/id
+
+----------------Admin----------------
+http://localhost:5000/admin/get_list
+http://localhost:5000/admin/update/id
+
+----------------Category----------------
+http://localhost:5000/Category/get_list
+http://localhost:5000/Category/delete/id
+http://localhost:5000/Category/update/id
+http://localhost:5000/Category/add
+// upload ảnh loại
+http://localhost:5000/Category/upload
+
+----------------Bill----------------
+http://localhost:5000/bill/get_list
+http://localhost:5000/bill/delete/id
+http://localhost:5000/bill/update/id
+http://localhost:5000/bill/add
+http://localhost:5000/bill/search/id
+
+----------------Cart----------------
+http://localhost:5000/cart/get_list
+http://localhost:5000/cart/delete/id
+http://localhost:5000/cart/update/id
+http://localhost:5000/cart/add
+
